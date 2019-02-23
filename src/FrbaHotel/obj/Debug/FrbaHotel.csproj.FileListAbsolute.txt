@@ -1,0 +1,118 @@
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\bin\Debug\FrbaHotel.exe.config
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\bin\Debug\FrbaHotel.exe
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\bin\Debug\FrbaHotel.pdb
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\obj\Debug\FrbaHotel.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\obj\Debug\FrbaHotel.Properties.Resources.resources
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\obj\Debug\FrbaHotel.csproj.GenerateResource.Cache
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\obj\Debug\FrbaHotel.exe
+\\VBOXSVR\Hotel_Frba_1C2018\src\FrbaHotel\obj\Debug\FrbaHotel.pdb
+C:\Users\calle\Desktop\FrbaHotel\bin\Debug\FrbaHotel.exe.config
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.exe
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.pdb
+C:\Users\calle\Desktop\FrbaHotel\bin\Debug\FrbaHotel.exe
+C:\Users\calle\Desktop\FrbaHotel\bin\Debug\FrbaHotel.pdb
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.Form1.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.Login.frmLogin.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.Properties.Resources.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.csproj.GenerateResource.Cache
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.Login.frmSeleccionRol.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmABMCliente.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmABMHabitacion.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmHotel.frmABMHotel.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmRegimen.frmABMRegimen.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmRol.frmABMRol.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmUsuario.frmABMUsuario.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.CancelarReserva.frmCancelarReserva.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.FuncionalidadesAdministrador.frmFuncionalidadesAdministrador.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.FuncionalidadesCliente.frmFuncionalidadesCliente.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.FuncionalidadesRecepcionista.frmFuncionalidadesRecepcionista.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.GenerarModificacionReserva.frmGenerarModificacion.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.ListadoEstadistico.frmListadoEstadistico.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.RegistrarConsumible.frmRegistrarConsumible.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.RegistrarEstadia.frmRegistrarEstadia.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmAlta.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmBaja.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmListado.resources
+C:\Users\calle\Desktop\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmModificacion.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\bin\Debug\FrbaHotel.exe.config
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\bin\Debug\FrbaHotel.exe
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\bin\Debug\FrbaHotel.pdb
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.csprojResolveAssemblyReference.cache
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmCliente.frmABMCliente.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmHabitacion.frmAbmHabitacion.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmHotel.frmAbmHotel.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmRegimen.frmAbmRegimen.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmRol.frmABMRol.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmUsuario.frmABMUsuario.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmCliente.frmAlta.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmCliente.frmBaja.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmCliente.frmListado.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.AbmCliente.frmModificacion.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.CancelarReserva.frmCancelarReserva.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Inicio.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.GenerarModificacionReserva.frmGenerarModificacion.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.ListadoEstadistico.frmListadoEstadistico.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Login.frmFuncionalidadesAdministrador.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Login.frmFuncionalidadesCliente.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Login.frmFuncionalidadesRecepcionista.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Login.frmLogin.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Login.frmSeleccionRol.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.Properties.Resources.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.RegistrarConsumible.frmRegistrarConsumible.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.RegistrarEstadia.frmRegistrarEstadia.resources
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.csproj.GenerateResource.Cache
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.exe
+C:\Users\agust\workspace\TP Hotel Frba 1.0 - 1C 2018\Aplicacion Desktop\FrbaHotel - Nico\obj\Debug\FrbaHotel.pdb
+C:\Home\hotelFRBA\src\FrbaHotel\bin\Debug\FrbaHotel.exe.config
+C:\Home\hotelFRBA\src\FrbaHotel\bin\Debug\FrbaHotel.exe
+C:\Home\hotelFRBA\src\FrbaHotel\bin\Debug\FrbaHotel.pdb
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.csprojResolveAssemblyReference.cache
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmABMCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmAltaCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmCliente.frmModificarCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmAdvertenciaBaja.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmAltaHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmAbmHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmBajaHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmInhabilitarHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmSeleccionarHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHabitacion.frmModificarHabitacion.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHotel.frmAbmHotel.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHotel.frmAltaHotel.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmHotel.frmBajaHotel.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmRegimen.AltaRegimen.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmRegimen.frmAbmRegimen.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmRegimen.ListadoRegimen.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmRol.frmABMRol.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmRol.frmAltaRol.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmUsuario.frmABMUsuario.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.AbmUsuario.frmAltaUsuario.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.CancelarReserva.frmCancelarReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.FacturarEstadia.frmConfirmarFactura.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmBuscarCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmEleccionDeRegimen.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmGenerarReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmInformarCostoDeLaReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmModificarReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmMostrarCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmMostrarNumeroDeReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmRegistrarCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmSeleccionarReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmSeleccionarSiSeAlojoAlgunaVez.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Inicio.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.GenerarOModificarReserva.frmGenerarOModificarReserva.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.ListadoEstadistico.frmListadoEstadistico.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Login.frmFuncionalidadesAdministrador.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Login.frmFuncionalidadesCliente.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Login.frmFuncionalidadesRecepcionista.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Login.frmLogin.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Login.frmSeleccionRol.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.Properties.Resources.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.FacturarEstadia.frmFacturarEstadia.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.RegistrarEstadia.Form1.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.RegistrarEstadia.CheckInRestantes.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.RegistrarEstadia.frmRegistrarEstadia.resources
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.csproj.GenerateResource.Cache
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.exe
+C:\Home\hotelFRBA\src\FrbaHotel\obj\Debug\FrbaHotel.pdb
